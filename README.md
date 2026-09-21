@@ -99,7 +99,8 @@ void loop() {
 
  <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7852aa77-6558-4d65-b289-9370f691d022" />
  
- <img width="1100" height="1600" alt="image" src="https://github.com/user-attachments/assets/1cb7c888-73d5-4eb7-aade-4b303121800a" />
+ <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/8615efb6-e2a0-4f69-95c6-f7d9fe467c46" />
+
 
 
 ## Result
